@@ -1,25 +1,17 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to Strong Foods"
 date:   2016-02-11 08:18:31 -0500
-categories: jekyll update
+categories: update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+We’re bringing farm-fresh real ingredients and top-notch cooking to make the world more delicious and to 'Be Strong.'™
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Everyone deserves to be healthier and to afford it so we’re serving up real, good food for all. 
 
-Jekyll also offers powerful support for code snippets:
+# Chef Cathal Armstrong 
+National tae-kwon-do Champion,  3rd degree black belt and award winning, celebrated Chef leading the sustainable, well-being food program. 
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+Restaurant Eve's mantra of Nourish the Palate ™ is now found in Gastro-grab bento boxes full of protein packed for schools and athletes. Hot, braised mix and match dinners can be taken home or enjoyed onsite for hard working millennial moms, gen x'ers, everyday people who believe that food and lifestyle are part of their daily being and live to - Be Strong ™
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Happy hour : Your heart loves Red wine and everyone loves our detox inspired cocktails that won't weigh you down available at the "Strong-bar " made with co-owner and world renowned mix master, Todd Thrasher's Tinctures and Thrasher's Rum. 
+- 2 drink minimum for optimum calorie count suggested - just sayin'

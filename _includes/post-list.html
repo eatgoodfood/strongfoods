@@ -1,0 +1,13 @@
+<section class="updates">
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <h1 class="post-title" itemprop="name headline">{{ post.title }}</h2>
+        <p class="post-meta">{{ post.date | date: '%B %d, %Y' }}</p>
+        <div class="post-content" itemprop="articleBody">
+          {{ post.content }}
+        </div>
+      </li>
+    {% endfor %}
+  </ul>
+</section>
