@@ -88,22 +88,14 @@
                 width:         calc(20% - (#{$spacing-unit} / 2));
             }
 
-            @include media-query($on-laptop) {
-                .home-col-1,
-                .home-col-2, 
-                .home-col-3,
-                .home-col-4,
-                .home-col-5 {
-                    width: -webkit-calc(100% - (#{$spacing-unit} / 2));
-                    width:         calc(100% - (#{$spacing-unit} / 2));
-                }
-            }
-
             @include media-query($on-palm) {
-                .home-col {
-                    float: none;
-                    width: -webkit-calc(100% - (#{$spacing-unit} / 2));
-                    width:         calc(100% - (#{$spacing-unit} / 2));
+                .home-col-1 {
+                width: -webkit-calc(100% - (#{$spacing-unit} / 2));
+                width:         calc(100% - (#{$spacing-unit} / 2));
+                }
+                .home-col-2, .home-col-3, .home-col-4, .home-col-5 {
+                    width: -webkit-calc(25% - (#{$spacing-unit} / 2));
+                    width:         calc(25% - (#{$spacing-unit} / 2));
                 }
             }
         }
