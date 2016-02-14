@@ -99,6 +99,8 @@
             }
 
             @include media-query($on-palm) {
+                padding: 0;
+
                 .home-col-1 {
                     width: -webkit-calc(100% - (#{$spacing-unit} / 2));
                     width:         calc(100% - (#{$spacing-unit} / 2));
