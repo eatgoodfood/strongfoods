@@ -12,6 +12,43 @@ description: > # this means to ignore newlines until "baseurl:"
   Strong foods is a new venture by the eat good food group
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://strong-foods.com" # the base hostname & protocol for your site
+twitter_username_eamonns: eamonnschipper
+facebook_username_eamonns: EamonnsADublinChipper
+instagram_username_eamonns: EamonnsADublinChipper
 
 # Build settings
 markdown: kramdown
+
+# Configure prose.io.
+prose:
+  rooturl: '_posts'
+  siteurl: 'http://eatgoodfood.github.io/strongfoods'
+  relativeLinks: 'http://eatgoodfood.github.io/strongfoods/links.jsonp'
+  media: 'media'
+  ignore:
+    - index.html
+    - _config.yml
+    - CNAME
+    - /_layouts
+    - /_includes
+    - /_plugins
+    - /_sass
+  siteurl: "http://strong-foods.com"
+  metadata:
+    _posts:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "post"
+      - name: "title"
+        field:
+          element: "text"
+          label: "title"
+      - name: "categories"
+        field:
+          element: "multiselect"
+          label: "Add Categories"
+          placeholder: "Choose Tags"
+          options:
+            - name: "Update"
+              value: "update"
